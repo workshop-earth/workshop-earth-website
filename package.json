@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/workshop-earth/workshop-earth-website#readme",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^5.0.1",
     "gulp-sass": "^5.1.0",
     "reset-css": "^4.0.1",
     "gulp-compile-handlebars": "^0.6.1",
