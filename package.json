@@ -21,7 +21,7 @@
     "gulp-sass": "^5.1.0",
     "reset-css": "^4.0.1",
     "gulp-compile-handlebars": "^0.6.1",
-    "handlebars": "^4.7.7",
+    "handlebars": "^4.7.9",
     "handlebars-layouts": "^3.1.4",
     "gulp-rename": "^1.4.0"
   }
